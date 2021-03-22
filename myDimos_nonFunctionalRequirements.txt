@@ -1,0 +1,14 @@
+- Non Functional Requirement 1:
+The system must have the HTTPS security protocol principles.
+
+- Non Functional Requirement 2:
+The system must be compatible with android, windows and iOS devices and modern web browsers.
+
+- Non Functional Requirement 3:
+The system must be able to handle GPS spots, through the google maps system.
+
+- Non Functional Requirement 4:
+The system must support 1080p video and up to 64mp images.
+
+- Non Functional Requirement 5:
+The system must complies with GDPR policy.

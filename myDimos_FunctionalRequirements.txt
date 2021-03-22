@@ -1,0 +1,32 @@
+-Functional Requirement 1:
+A logged in user must be able to submit a new issue.
+
+-Functional Requirement 2:
+A logged in user must be able to view all public issues.
+
+-Functional Requirement 3:
+A logged in user must be able to vote a public issue.
+
+-Functional Requirement 4:
+A logged in user must be able to view the full content of a public issue.
+
+-Functional Requirement 5:
+A logged in user must be able to apply filters on public issues.
+
+-Functional Requirement 6:
+A logged in user must be able to view his pending issues.
+
+-Functional Requirement 7:
+A logged in user must be able to edit one of his pending issues.
+
+-Functional Requirement 8:
+An administrator must be able to view all issues.
+
+-Functional Requirement 9:
+An administrator must be able to apply filters on public issues.
+
+-Functional Requirement 10:
+An administrator must be able to manage categories.
+
+-Functional Requirement 11:
+An administrator must be able to manage an issue.
