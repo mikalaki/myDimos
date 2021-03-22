@@ -11,8 +11,8 @@ The project is about a concept web application to be develop and consists of 2 d
 User Stories of the system, written on Gherkin language are [here](https://github.com/mikalaki/myDimos_SoftEng_project/tree/main/User%20Stories).
 
 ## Design Mockups (UI)
-User interface mockups are in [this repo directory](https://github.com/mikalaki/myDimos_SoftEng_project/tree/main/myDimos_mockups_design).
-    *all mockups are designed by [me](https://github.com/mikalaki)*
+User interface mockups are in [this repo directory](https://github.com/mikalaki/myDimos_SoftEng_project/tree/main/myDimos_mockups_design). <br>
+
 ## myDimos API on swaggerhub
 The API of myDimos Application on swagger is [here](https://app.swaggerhub.com/apis/mikalaki/myDimosApi/1.0.0).
 
